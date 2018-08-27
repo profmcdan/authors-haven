@@ -10,6 +10,10 @@ by leveraging the modern web.
 ## API Spec
 The preferred JSON object to be returned by the API should be structured as follows:
 
+## Pivotal Tracker
+[FullStack](https://www.pivotaltracker.com/n/projects/2180879)
+[Frontend](https://www.pivotaltracker.com/n/projects/2180886)
+
 ### Users (for authentication)
 
 ```source-json
